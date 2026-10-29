@@ -1,4 +1,6 @@
 *.apk
+__pycache__/
+*.pyc
 *.zip
 /temp
 /build
